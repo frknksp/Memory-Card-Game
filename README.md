@@ -15,7 +15,7 @@ To run this app, you will need to have Android Studio installed on your computer
 
 ## Installing
 
-1. Clone the repository```bashgit clone https://github.com/your-username/memory-game.git
+1. Clone the repository: git clone https://github.com/frknksp/Memory-Card-Game.git
 2. Open the project in Android Studio
 3. Add your google-services.json to the app folder.
 4. Connect an Android device or use an emulator to run the app
